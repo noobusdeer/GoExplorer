@@ -1,0 +1,3 @@
+[
+	{ "keys": ["Alt+F3"], "command": "go_explorer" }
+]
